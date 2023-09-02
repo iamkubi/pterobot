@@ -1,0 +1,8 @@
+# Ignore the settings files which contain secrets
+pterobot/settings.py
+
+# Ignore build files
+dist/**
+
+# IDE files
+.idea/**
